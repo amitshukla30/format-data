@@ -7,3 +7,6 @@
 - format JSON and XML
 - no tracking from project owner.
 - Reused part of "pretty-data" NPM module, as ES6 version of this module was not available.
+
+#Demo
+https://format-data.firebaseapp.com
